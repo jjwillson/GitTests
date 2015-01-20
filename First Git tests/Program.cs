@@ -14,7 +14,7 @@ namespace First_Git_tests
 
             // This is my second commit.
 
-
+            // This is another commit and this time will be pushed to the server.
         }
     }
 }
